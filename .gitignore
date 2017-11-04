@@ -58,4 +58,4 @@ typings/
 .env
 
 #other directories
-1.hello-world/node_modules
+hello-world/node_modules
