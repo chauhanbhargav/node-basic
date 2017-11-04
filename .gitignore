@@ -60,3 +60,4 @@ typings/
 
 #other directories
 hello-world/node_modules
+basic-http-request/node_modules
