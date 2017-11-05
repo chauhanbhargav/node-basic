@@ -3,7 +3,7 @@ Node-Express Examples
 
 # How to run
 ```sh
-git clone https://github.com/kamerk22/node-express-examples.git
+git clone https://github.com/chauhanbhargav/node-basic.git
 cd node-express-examples
 ```
 For each example
